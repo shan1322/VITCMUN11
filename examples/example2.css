@@ -1,0 +1,81 @@
+p {
+  font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+  font-style: normal;
+  font-variant: normal;
+  color:white;
+  font-weight: 100 !important;
+  line-height: 20px;
+  font-stretch: 200em !important;
+}
+
+.testdisec:hover p{
+  color:rgb(100,100,255) !important;
+}
+
+.testaippm:hover p{
+  color:rgb(255,100,100) !important;
+}
+
+.testau:hover p{
+  color:rgb(204,119,34) !important;
+}
+
+.testecofin:hover p{
+  color:rgb(100,255,100) !important;
+}
+
+.testeu:hover p{
+  color:rgb(0,0,255) !important;
+}
+
+.testhrc:hover p{
+  color:rgb(0,255,0) !important;
+}
+
+.testiaea:hover p{
+  color:rgb(109, 199, 255) !important;
+}
+
+.testosce:hover p{
+  color:rgb(255,255,0) !important;
+}
+
+.testsochum:hover p{
+  color:rgb(55,199,60) !important;
+}
+
+.testtrilateral:hover p{
+  color:rgb(255,0,150) !important;
+}
+
+.testjwc:hover p{
+  color:rgb(0,100,255) !important;
+}
+
+.testsc:hover p{
+  color:rgb(255,0,0) !important;
+}
+
+
+
+	h1{
+		font-size: 5em;
+		font-family: arial,helvetica;
+		color: #fff;
+		margin:0;
+	}
+	.intro p{
+		color: #fff;
+	}
+
+	/* Centered texts in each section
+	* --------------------------------------- */
+	.section{
+		text-align:center;
+	}
+
+	/* Bottom menu
+	* --------------------------------------- */
+	#infoMenu li a {
+		color: #fff;
+	}
